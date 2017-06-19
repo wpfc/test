@@ -4,3 +4,4 @@ test stage delete storage.
 create a branch is quick.
 helloworld.
 happy new year.
+branch manage.
