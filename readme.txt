@@ -6,3 +6,4 @@ helloworld.
 happy new year.
 branch manage.
 deal with the problem of this bug.
+deal a problem by branch issue-1.
