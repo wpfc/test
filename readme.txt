@@ -5,3 +5,4 @@ create a branch is quick.
 helloworld.
 happy new year.
 branch manage.
+deal with the problem of this bug.
